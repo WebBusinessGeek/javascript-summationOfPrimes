@@ -48,3 +48,11 @@ describe("summationOfPrimes", function() {
         expect(result).toBe(correct);
     });
 });
+
+describe("problem solved", function() {
+    it("should return the correct answer", function() {
+        var result = summationOfPrimes(1, 2000000);
+        var correct = 142913828922;
+        expect(result).toBe(correct);
+    });
+});

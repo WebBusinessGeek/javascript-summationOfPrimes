@@ -4,7 +4,6 @@
     <list default="true" id="8c28f4ea-93ac-4af5-a6a5-054e3d53b67d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm.js" afterPath="$PROJECT_DIR$/algorithm.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algorithm.test.js" afterPath="$PROJECT_DIR$/algorithm.test.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="summationOfPrimes.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
           <file leaf-file-name="algorithm.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/algorithm.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.3211679">
-                  <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+                <state vertical-scroll-proportion="0.84671533">
+                  <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -54,8 +53,8 @@
           <file leaf-file-name="algorithm.test.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/algorithm.test.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.09489051">
-                  <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+                <state vertical-scroll-proportion="0.82481754">
+                  <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -71,8 +70,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/algorithm.test.js" />
         <option value="$PROJECT_DIR$/algorithm.js" />
+        <option value="$PROJECT_DIR$/algorithm.test.js" />
       </list>
     </option>
   </component>
@@ -182,8 +181,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/algorithm.test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09489051">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.82481754">
+          <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
           <folding />
         </state>
       </provider>

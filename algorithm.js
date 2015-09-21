@@ -26,3 +26,4 @@ function summationOfPrimes(rangeStart, rangeStop) {
     return sumOfPrimes;
 }
 
+summationOfPrimes(1, 2000000);
